@@ -25,7 +25,7 @@ Feed Section: The feed section allows users to post content, including captions 
 
 # Tech Stack
 
-**Client:** React, Redux, Bootstrap, Tailwind, axios, 
+**Client:** React, Redux, Bootstrap, Tailwind, Axios, 
 
 **Server:** Node, Express, Axios, Mongoose, Cloudinary
 
@@ -37,7 +37,7 @@ Feed Section: The feed section allows users to post content, including captions 
 Clone the project
 
 ```bash
-  git clone https://github.com/ashish123256/ShopPlusPlus-EcommerceMern.git
+  git clone https://github.com/ashish123256/Task-Management-App.git
 ```
 
 **For Client**
